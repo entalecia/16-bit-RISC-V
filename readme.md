@@ -6,7 +6,7 @@ A custom **16-bit single-cycle Harvard-architecture RISC processor** designed, i
 
 ## Architecture & Datapath
 
-![16-Bit Single-Cycle RISC Processor Architecture](architecture.png)
+![16-Bit Single-Cycle RISC Processor Architecture](Architecture.png)
 
 ### Key Architectural Specifications
 * **Datapath Width:** 16-bit word-addressed single-cycle execution (1 instruction per clock cycle)
