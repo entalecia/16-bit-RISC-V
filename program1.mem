@@ -1,0 +1,5 @@
+// Program 1: Adding 5 and 3 and storing the result in R3
+0110_001_000_000101 // ADDI R1, R0, 5
+0110_010_000_000011 // ADDI R2, R0, 3
+0001_011_001_010_000 // ADD  R3, R1, R2
+1111_000000000000  // HLT
